@@ -32,6 +32,4 @@ Credit: Leon Noel's 21 Savage repository: https://github.com/leonnoel/savage-dem
 Take a look at these couple examples that I have in my own portfolio:
 
 coming soon...
-# full-stack-lupe-fiasco-
-# rip-capital-steez
 # rip-capital-steez
